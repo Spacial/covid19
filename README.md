@@ -16,7 +16,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Coronavirus COVID-19 Global Cases](https://coronavirus.jhu.edu/map.html) by The Center for Systems Science and Engineering (CSSE) at Johns Hopkins University
 - [Outbreak](https://meltingasphalt.com/interactive/outbreak/) by Kevin Simler
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
-- Our World in Data: [Coronavirus Source Data – WHO Situation Reports](https://ourworldindata.org/coronavirus-source-data) 
+- Our World in Data: [Coronavirus Source Data – WHO Situation Reports](https://ourworldindata.org/coronavirus-source-data)
+- [Should I implement the complete izolation in my country?](https://kidzik.shinyapps.io/corona-simulator/)
 -  Nucleus Wealth:
   - [Updated COVID-19 statistics and analysis](https://nucleuswealth.com/articles/updated-coronavirus-statistics-cases-deaths-mortality-rate/)
   - [Brazil dashboard](https://nucleuswealth.com/coronavirus-covid19-dashboard-charts-and-data-every-country/brazil)
