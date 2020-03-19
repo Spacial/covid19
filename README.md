@@ -33,3 +33,4 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 ## Other stuff
 
 - [How to Make Your Own Hand Sanitizer](https://www.wired.com/story/how-to-make-hand-sanitizer/)
+- [JHUP ANNOUNCES FREE ACCESS TO ITS JOURNALS AND BOOKS ON PROJECT MUSE DURING COVID-19 CRISIS](https://www.press.jhu.edu/news/announcements/jhup-announces-free-access-its-journals-and-books-project-muse-during-covid-19)
