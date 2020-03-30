@@ -130,6 +130,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Astrophysicist gets magnets stuck up nose while inventing coronavirus device](https://www.theguardian.com/australia-news/2020/mar/30/astrophysicist-gets-magnets-stuck-up-nose-while-inventing-coronavirus-device)
 - [Quarentena.Tech](https://quarentena.tech): Nesse momento complicado que estamos passando, felizmente têm muitas pessoas, comunidades e empresas realizando pequenos eventos 100% online e de graça pra galera.
 - [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com)
+- [Ten Considerations Before You Create Another Chart About COVID-19](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
+- [A complete guide to coronavirus charts: Be informed, not terrified](https://www.fastcompany.com/90482640/what-is-force-majeure-the-legal-term-youll-be-hearing-a-lot-during-the-coronavirus-crisis)
 
 ### News
 
