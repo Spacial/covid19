@@ -91,6 +91,9 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Pandemics Depress the Economy, Public Health Interventions Do Not: Evidence from the 1918 Flu](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3561560)
 - [BioMed Sanity](http://biomed-sanity.com): Built in spare time by [@karpathy](https://twitter.com/karpathy) following biorxiv and my older project arxiv-sanity to help with influx of papers on COVID-19, currently indexing 976 papers. [repo](https://github.com/karpathy/covid-sanity)
 - [Quiver Quantitative](https://www.quiverquant.com/covidtreatments/): COVID-19 TREATMENT DASHBOARD
+- [The Coronavirus Dashboard](https://ramikrispin.github.io/coronavirus_dashboard/)
+    - [the case of Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html)
+    - [el caso de Honduras](https://rpubs.com/klauswiese/HN_COVID19)
 
 ### Brazil
 
@@ -103,6 +106,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Portal COVID19 — Setor de Ciências Exatas/UFPR](http://covid.c3sl.ufpr.br)
 - [CASOS EM SP](https://www.seade.gov.br/coronavirus/) - portal da secretaria de saúde de SP
 - [Painel Coronavírus](https://covid.saude.gov.br)
+- [Dados sobre o Coronavirus em Foz do Iguaçu - PR](http://covid19.unioeste-foz.br/)
+- [Conector de dados na Web para acessar dados do Covid-19](https://github.com/JuracyAmerico/Covid-19)
 
 ## How to Help
 
@@ -112,6 +117,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 
 - [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) by 3b1b, [animation code](https://github.com/3b1b/manim/blob/shaders/from_3b1b/active/sir.py)
 - [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) by MinutePhysics
+- (pt-br) [Manejo Clínico do Covid-19](https://www.youtube.com/watch?v=38IxSb6aA08&feature=youtu.be) by CREMESP
 
 ## Other stuff
 
@@ -132,6 +138,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Postman COVID-19 API Resource Center](https://covid-19-apis.postman.com)
 - [Ten Considerations Before You Create Another Chart About COVID-19](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8)
 - [A complete guide to coronavirus charts: Be informed, not terrified](https://www.fastcompany.com/90482640/what-is-force-majeure-the-legal-term-youll-be-hearing-a-lot-during-the-coronavirus-crisis)
+- [Covid19](https://covid19.healthdata.org/projections) - university of Washington
+- [Corona Tracker](https://coronatracker.samabox.com)
 
 ### News
 
