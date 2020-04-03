@@ -12,7 +12,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Coronavirus-Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset) Dataset of CoronaVirus disease 2019 (COVID-19) in South Korea (from KCDC)
 - [COVID-19 Italia](https://github.com/pcm-dpc/COVID-19) - Monitoraggio situazione
 
-## Repos
+## Simulators and Repos
 
 - [eSIR](https://github.com/lilywang1988/eSIR): R package that extends state-space SIR epidemiological models
 - [coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli/): Track conronavirus cases from command line.
@@ -22,6 +22,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - (pt-br) [Ministério da Saúde - corona](https://github.com/jtrecenti/corona): Dados do Ministério da Saúde atualizados com cronjob
 - (pt-br) [COVID-19](https://github.com/peixebabel/COVID-19): Dados e plots sobre as informações do Corona Virus levantadas pelo Peixe Babel.
 - [COVID19Py](https://pypi.org/project/COVID19Py/): A tiny Python package for easy access to up-to-date Coronavirus (COVID-19, SARS-CoV-2) cases data.
+- (pt-br) [Simulador de Capacidade instalada para o SUS](http://covid-sus-simulator.3778.care)
+- [Should I implement the complete izolation in my country?](https://kidzik.shinyapps.io/corona-simulator/), [repo](https://github.com/kidzik/corona)
 
 ## Outbreaks and Pandemics
 
@@ -30,10 +32,9 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 - [Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus)
 - Our World in Data: [Coronavirus Source Data – WHO Situation Reports](https://ourworldindata.org/coronavirus-source-data)
-- [Should I implement the complete izolation in my country?](https://kidzik.shinyapps.io/corona-simulator/), [repo](https://github.com/kidzik/corona)
 -  Nucleus Wealth:
-          * [Updated COVID-19 statistics and analysis](https://nucleuswealth.com/articles/updated-coronavirus-statistics-cases-deaths-mortality-rate/)
-          * [Brazil dashboard](https://nucleuswealth.com/coronavirus-covid19-dashboard-charts-and-data-every-country/brazil)
+         - [Updated COVID-19 statistics and analysis](https://nucleuswealth.com/articles/updated-coronavirus-statistics-cases-deaths-mortality-rate/)
+         - [Brazil dashboard](https://nucleuswealth.com/coronavirus-covid19-dashboard-charts-and-data-every-country/brazil)
 - [Don't be Italy](https://observablehq.com/@yurivish/dont-be-italy)
 - [11 charts that explain the coronavirus pandemic](https://www.vox.com/future-perfect/2020/3/12/21172040/coronavirus-covid-19-virus-charts)
 - [US Health Weather Map](https://healthweather.us)
@@ -140,8 +141,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [A complete guide to coronavirus charts: Be informed, not terrified](https://www.fastcompany.com/90482640/what-is-force-majeure-the-legal-term-youll-be-hearing-a-lot-during-the-coronavirus-crisis)
 - [Covid19](https://covid19.healthdata.org/projections) - university of Washington
 - [Corona Tracker](https://coronatracker.samabox.com)
+- [See how your community is moving around differently due to COVID-19](https://www.bloomberg.com/opinion/articles/2020-04-01/tracking-coronavirus-by-smell-test-is-risk-manager-s-project-now)
 
 ### News
 
 - [Mystery In Wuhan: Recovered Coronavirus Patients Test Negative ... Then Positive](https://www.npr.org/sections/goatsandsoda/2020/03/27/822407626/mystery-in-wuhan-recovered-coronavirus-patients-test-negative-then-positive)
 - [COVID-19: learning from experience](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30686-3/fulltext)
+- [Juazeiro: Empresa realiza pesquisa para ajudar a mapear cenário sobre coronavírus; faça sua autoavaliação](https://www.edenevaldoalves.com.br/juazeiro-empresa-realiza-pesquisa-para-ajudar-a-mapear-cenario-sobre-coronavirus-faca-sua-autoavaliacao/)
+- [Gene mais ativo em doença crônica pode explicar risco de quadros graves de covid-19](https://jornal.usp.br/ciencias/ciencias-da-saude/gene-mais-ativo-em-doenca-cronica-pode-explicar-risco-de-quadros-graves-de-covid-19/)
