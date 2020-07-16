@@ -1,7 +1,6 @@
 # covid19
 Resources about Covid-19, data, links, repos, and a lot of stuff
 
-
 ## Datasets
 
 - (pt-br) [covid19-br](https://github.com/turicas/covid19-br): Esse repositório centraliza links e dados sobre boletins de número de casos das secretarias de saúde estaduais sobre a pandemia de coronavírus no Brasil. O recorte é por município por dia, para acompanharmos localmente a evolução da propagação do vírus.
@@ -11,6 +10,10 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Population flow](https://github.com/leiii/population_flow) data for the study of Covid-19
 - [Coronavirus-Dataset](https://github.com/jihoo-kim/Coronavirus-Dataset) Dataset of CoronaVirus disease 2019 (COVID-19) in South Korea (from KCDC)
 - [COVID-19 Italia](https://github.com/pcm-dpc/COVID-19) - Monitoraggio situazione
+- [COVerAGE-DB](https://github.com/timriffe/covid_age): COVID-19 cases, deaths, and tests by age and sex
+- [COVID-19 Data Hub](https://github.com/covid19datahub/COVID19): Unified dataset for a better understanding of COVID-19
+- [covid-19-data](https://github.com/owid/covid-19-data): Data on COVID-19 (coronavirus) confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data.
+- [squire](https://mrc-ide.github.io/squire/) enables users to simulate models of SARS-CoV-2 epidemics. This is done using an age-structured SEIR model that also explicitly considers healthcare capacity and disease severity, repo: [squire](https://github.com/mrc-ide/squire): SEIR transmission model of COVID-19.
 
 ## Simulators and Repos
 
@@ -24,6 +27,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [COVID19Py](https://pypi.org/project/COVID19Py/): A tiny Python package for easy access to up-to-date Coronavirus (COVID-19, SARS-CoV-2) cases data.
 - (pt-br) [Simulador de Capacidade instalada para o SUS](http://covid-sus-simulator.3778.care)
 - [Should I implement the complete izolation in my country?](https://kidzik.shinyapps.io/corona-simulator/), [repo](https://github.com/kidzik/corona)
+- [COVID-19 Scenarios](https://covid19-scenarios.org/): This tool uses a mathematical model to simulate a variety of COVID-19 outcomes based on user-defined parameters. This output of the model depends on model assumptions and parameter choices.
+- [global-lmic-reports-orderly](https://github.com/mrc-ide/global-lmic-reports-orderly): COVID-19 forecast reports for LMICs
+- [Temporal variation in transmission during the COVID-19 outbreak](https://epiforecasts.io/covid/): To identify changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak at the national and subnational level whilst accounting for potential biases due to delays in case reporting. Repo: [covid](https://github.com/epiforecasts/covid): Temporal variation in transmission during the COVID-19 outbreak.
+- [COVIDMINDER](https://github.com/TheRensselaerIDEA/COVIDMINDER): Revealing regional disparities in outcomes, determinants, and mediations of the COVID-19 pandemic.
+- [tidycovid19](https://github.com/joachim-gassen/tidycovid19): An R Package to Download, Tidy and Visualize Covid-19 Related Data
 
 ## Outbreaks and Pandemics
 
@@ -52,6 +60,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - GeoGebra: [SIR Model](https://www.geogebra.org/m/nbjfjtpv), [SIR model](https://www.geogebra.org/m/utbemrca)
 - [Epidemic Modeling 101](https://medium.com/data-for-science/epidemic-modeling-101-or-why-your-covid19-exponential-fits-are-wrong-97aa50c55f8): Or why your CoVID19 exponential fits are wrong. [repo](https://github.com/DataForScience/Epidemiology101)
 - [Covid19 Dashboard](https://trekhleb.github.io/covid-19/) by [Oleksii Trekhleb](https://dev.to/trekhleb/i-ve-open-sourced-a-simple-coronavirus-covid-19-dashboard-react-chart-js-bootstraptable-4i49) - [repo](https://github.com/trekhleb/covid-19)
+
+## Apps
+
+- [Corona-Warn-App](https://github.com/corona-warn-app): The official COVID-19 exposure notification app for Germany.
+- [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app): Ireland COVID Tracker App Repository.
 
 ## 3D Printing
 
@@ -95,7 +108,10 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [The Coronavirus Dashboard](https://ramikrispin.github.io/coronavirus_dashboard/)
     - [the case of Belgium](https://www.antoinesoetewey.com/files/coronavirus-dashboard.html)
     - [el caso de Honduras](https://rpubs.com/klauswiese/HN_COVID19)
-
+- [google-mobility-reports-data](https://github.com/datasciencecampus/google-mobility-reports-data): Archive of data extracted from the google community mobility reports
+- [Covid 19 - Google Global Mobility Report](https://datastudio.google.com/reporting/a529e043-e2b9-4e6f-86c6-ec99a5d7b9a4/page/yY2MB?s=ho2bve3abdM): 
+- [Análises de nowcasting](https://github.com/covid19br/nowcasting): Repositório para análises de nowcasting
+  
 ### Brazil
 
 - [Com um 'bullshiter' no Planalto, covid-19 pode virar a peste negra brasileira](https://www.dw.com/pt-br/com-umbullshiterno-planalto-covid-19-pode-virar-a-peste-negra-brasileira/a-52809685)
@@ -109,6 +125,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Painel Coronavírus](https://covid.saude.gov.br)
 - [Dados sobre o Coronavirus em Foz do Iguaçu - PR](http://covid19.unioeste-foz.br/)
 - [Conector de dados na Web para acessar dados do Covid-19](https://github.com/JuracyAmerico/Covid-19)
+- [Observatório Covid19-BR](https://covid19br.github.io/index.html). [repositorio](https://github.com/covid19br/covid19br.github.io)
+- [COVID-19 Brazil API](https://github.com/devarthurribeiro/covid19-brazil-api): Notificação de casos de doença pelo coronavírus 2019 (COVID-19) no Brasil
+- [COVID-19 Brazil - time series data](https://github.com/elhenrico/covid19-Brazil-timeseries): Data collection to analyze the dissemination of COVID-19 through Brazilian states. Contributions are welcome.
+- [Farol Covid](https://farolcovid.coronacidades.org/): Entenda e controle a Covid-19 em sua cidade e estado. Repo: [FarolCovid](https://github.com/ImpulsoGov/farolcovid): ￼￼. Ferramenta de monitoramento do risco de colapso no sistema de saúde em municípios brasileiros com a Covid-19 • Monitoring tool & simulation of the risk of collapse in Brazilian municipalities' health system due to Covid-19. 
+- [Mapa brasileiro da COVID-19](https://mapabrasileirodacovid.inloco.com.br/pt/): O Índice de Isolamento Social foi desenvolvido pela Inloco para auxiliar no combate à pandemia da COVID-19 ao acompanhar o coronavírus no Brasil.
 
 ## How to Help
 
@@ -149,3 +170,9 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [COVID-19: learning from experience](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30686-3/fulltext)
 - [Juazeiro: Empresa realiza pesquisa para ajudar a mapear cenário sobre coronavírus; faça sua autoavaliação](https://www.edenevaldoalves.com.br/juazeiro-empresa-realiza-pesquisa-para-ajudar-a-mapear-cenario-sobre-coronavirus-faca-sua-autoavaliacao/)
 - [Gene mais ativo em doença crônica pode explicar risco de quadros graves de covid-19](https://jornal.usp.br/ciencias/ciencias-da-saude/gene-mais-ativo-em-doenca-cronica-pode-explicar-risco-de-quadros-graves-de-covid-19/)
+- [todo mundo revoltado com essa festa ridicula. eu tambem. mas minha revolta é maior ainda!](https://threadreaderapp.com/thread/1274704135561056256.html)
+- [“Testes rápidos” liberados em farmácias confundem mais do que informam](https://www.revistaquestaodeciencia.com.br/questao-de-fato/2020/04/28/testes-rapidos-liberados-em-farmacias-confundem-mais-do-que-informam)
+- [Covid-19 expert Karl Friston: 'Germany may have more immunological “dark matter”](https://www.theguardian.com/world/2020/may/31/covid-19-expert-karl-friston-germany-may-have-more-immunological-dark-matter)
+- [E se o novo coronavírus puder deixar quem teve a covid-19 com diabetes?](https://luciahelena.blogosfera.uol.com.br/2020/06/23/e-se-o-novo-coronavirus-puder-deixar-quem-teve-a-covid-19-com-diabetes/)
+- [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html): Invisible outbreaks sprang up everywhere. The United States ignored the warning signs. We analyzed travel patterns, hidden infections and genetic data to show how the epidemic spun out of control.
+- [Novus Coronastatus](https://novus.se/novus-coronastatus/): The proportion of patients who have recently become ill is steadily increasing during the month of June, even the proportion who are ill for a long time, more than 10 weeks. In Novus's latest survey, 30% of those who are ill now report having been ill over the past week and 36% say they have been sick for 10 weeks.
