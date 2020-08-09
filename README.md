@@ -129,7 +129,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [COVID-19 Brazil API](https://github.com/devarthurribeiro/covid19-brazil-api): Notificação de casos de doença pelo coronavírus 2019 (COVID-19) no Brasil
 - [COVID-19 Brazil - time series data](https://github.com/elhenrico/covid19-Brazil-timeseries): Data collection to analyze the dissemination of COVID-19 through Brazilian states. Contributions are welcome.
 - [Farol Covid](https://farolcovid.coronacidades.org/): Entenda e controle a Covid-19 em sua cidade e estado. Repo: [FarolCovid](https://github.com/ImpulsoGov/farolcovid): ￼￼. Ferramenta de monitoramento do risco de colapso no sistema de saúde em municípios brasileiros com a Covid-19 • Monitoring tool & simulation of the risk of collapse in Brazilian municipalities' health system due to Covid-19. 
+- [Coronacidades API](https://github.com/ImpulsoGov/coronacidades-datasource): Repositório de construção da API que alimenta as ferramentas do Coronacidades • This repo runs our API for Coronacidades tools.
 - [Mapa brasileiro da COVID-19](https://mapabrasileirodacovid.inloco.com.br/pt/): O Índice de Isolamento Social foi desenvolvido pela Inloco para auxiliar no combate à pandemia da COVID-19 ao acompanhar o coronavírus no Brasil.
+- [BRInfo](https://github.com/fgrehm/brinfo): gregador de publicações feitas por instituições governamentais do Brasil.
+- [E se todos os mortos por Covid‑19 no Brasil fossem seus vizinhos?](https://piaui.folha.uol.com.br/lupa/epicentro/) [code](https://github.com/coldfoot/)
+- [Coronavírus | Covid-19 - Material para download](https://portal.fiocruz.br/coronavirus/material-para-download) by Fiocruz
 
 ## How to Help
 
@@ -176,3 +180,21 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [E se o novo coronavírus puder deixar quem teve a covid-19 com diabetes?](https://luciahelena.blogosfera.uol.com.br/2020/06/23/e-se-o-novo-coronavirus-puder-deixar-quem-teve-a-covid-19-com-diabetes/)
 - [How the Virus Won](https://www.nytimes.com/interactive/2020/us/coronavirus-spread.html): Invisible outbreaks sprang up everywhere. The United States ignored the warning signs. We analyzed travel patterns, hidden infections and genetic data to show how the epidemic spun out of control.
 - [Novus Coronastatus](https://novus.se/novus-coronastatus/): The proportion of patients who have recently become ill is steadily increasing during the month of June, even the proportion who are ill for a long time, more than 10 weeks. In Novus's latest survey, 30% of those who are ill now report having been ill over the past week and 36% say they have been sick for 10 weeks.
+- [APT29 targets COVID-19 vaccine development](https://www.ncsc.gov.uk/news/advisory-apt29-targets-covid-19-vaccine-development)
+- [How to Understand COVID-19 Numbers](https://www.propublica.org/article/how-to-understand-covid-19-numbers)
+
+## Papers
+
+- [Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial.](https://www.medrxiv.org/content/10.1101/2020.07.15.20151852v1)
+- [Dexamethasone in Hospitalized Patients with Covid-19 — Preliminary Report](https://www.nejm.org/doi/full/10.1056/NEJMoa2021436)
+- [Analysis of the SARS-CoV-2 outbreak in Rio Grande do Sul / Brazil](https://arxiv.org/abs/2007.10486)
+- [Cannabidiol reduces airway inflammation and fibrosis in experimental allergic asthma](https://www.sciencedirect.com/science/article/abs/pii/S0014299918306836)
+- [Evolution and epidemic spread of SARS-CoV-2 in Brazil](https://science.sciencemag.org/content/early/2020/07/22/science.abd2161)
+- [Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19](https://www.nejm.org/doi/full/10.1056/NEJMoa2019014?query=featured_coronavirus)
+- [Social distancing alters the clinical course of COVID-19 in young adults: A comparative cohort study](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa889/5864495)
+- [The ring vaccination trial: a novel cluster randomised controlled trial design to evaluate vaccine efficacy and effectiveness during outbreaks, with special reference to Ebola](https://www.bmj.com/content/351/bmj.h3740)
+- [Exaggerated risk of transmission of COVID-19 by fomites](https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(20)30561-2.pdf).
+- [A Cluster-Randomized Trial of Hydroxychloroquine as Prevention of Covid-19 Transmission and Disease](https://www.medrxiv.org/content/10.1101/2020.07.20.20157651v1)
+- [Multimodality Imaging in Evaluation of Cardiovascular complications in Patients with COVID-19](https://www.sciencedirect.com/science/article/pii/S0735109720360393?via%3Dihub)
+- [Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
+- [Cerebral Micro-Structural Changes in COVID-19 Patients – An MRI-based 3-month Follow-up Study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext)
