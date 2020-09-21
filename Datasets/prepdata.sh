@@ -1,68 +1,68 @@
-#!/bin/bash
-#    prepare WHO data to plot by 0 day
-# Author: Jacson Querubin (email: see [1]
+#!/bin/bash 
+#    prepare WHO data to plot by 0 day 
+# Author: spacial (email: see [1] 
 # [1] $ echo "spacialATg-m-a-i-lDOTc-o-m" | sed -e 's/AT/@/g'  | sed -e 's/DOT/\./g' | sed -e 's/-//g'
-# Date: 18/03/2020
-# License: GPL v3 or superior
-#####
-# Deps:
-#####
-# Params:
-#     see usage() 
-#####
-# Changelog:
-# 20200318Z - initial version (0.1)
-#####
-# Wish/TODO:
-#####
-# Functions
-function usage() {
-        echo "Use: $0 inputfile.csv [countries.txt]"
-        echo 'Parameters: inputfile.csv [countries.txt]
+# Date: 18/03/2020 
+# License: GPL v3 or superior 
+##### 
+# Deps :
+##### 
+# Params: 
+#     see usage()  
+##### 
+# Changelog: 
+# 20200318Z - initial version (0.1) 
+##### 
+# Wish /TODO:
+##### 
+# Functions 
+function usage() { 
+        echo "Use: $0 inputfile.csv [countries.txt]" 
+        echo 'Parameters: inputfile.csv [countries.txt]    
                - inputfile.csv ($1) - file from covid19 cases from WHO (csv format).
                - [countries.txt] ($2) - file with selected countries (to narrow graphics), one per line.
 
                output: data prepared to pandas/jupyter on screen
         '
-        echo " * Tip: to debug script, add _DEBUG=on before running."       
-        return 0
-        exit
+        echo  " * Tip: to debug script, add _DEBUG=on before running."       
+        return 0 
+        exit 
+} 
+ 
+DEBUG(){ 
+        [ "$_DEBUG" == "on" ] && $@ || : 
+} 
+ 
+function saveenv(){ 
+    OLDDIR=$(pwd) 
+    OLDLC_TYPE=${LC_TYPE} 
+} 
+
+function setenv(){ 
+    LC_CTYPE=C 
+    TIME=$(date +"%H") 
+    FULLTIME=$(date '+%Y/%m/%d %H:%M:%S') 
+    createtmp 
+    TMPDIR=$(echo ".tmp-${TMPNOW}") 
+    DEBUG echo "mkdir -p ${TMPDIR}" 
+    LOGFILE=${TMPDIR}/prepdata.log 
+    mkdir -p ${TMPDIR} 
+} 
+
+function restorenv(){ 
+    cd ${OLDDIR} 
+    LC_TYPE=${OLDLC_TYPE} 
+    DEBUG echo "rm -rf ${TMPDIR}" 
+    # rm -rf ${TMPDIR} # uncomment to adjust
 }
 
-DEBUG(){
-        [ "$_DEBUG" == "on" ] && $@ || :
-}
-
-function saveenv(){
-    OLDDIR=$(pwd)
-    OLDLC_TYPE=${LC_TYPE}
-}
-
-function setenv(){
-    LC_CTYPE=C
-    TIME=$(date +"%H")
-    FULLTIME=$(date '+%Y/%m/%d %H:%M:%S')
-    createtmp
-    TMPDIR=$(echo ".tmp-${TMPNOW}")
-    DEBUG echo "mkdir -p ${TMPDIR}"
-    LOGFILE=${TMPDIR}/prepdata.log
-    mkdir -p ${TMPDIR}
-}
-
-function restorenv(){
-    cd ${OLDDIR}
-    LC_TYPE=${OLDLC_TYPE}
-    DEBUG echo "rm -rf ${TMPDIR}"
-    # rm -rf ${TMPDIR}
-}
-
-function createtmp(){
+function createtmp(){ 
     TMPNOW=$(date '+%Y%m%dT%H%M%S')
-    RANDATA=$(LANG=C tr -dc A-Za-z0-9 < /dev/urandom  | fold -w ${1:-16} | head -n 1)
+    RANDATA=$(LANG=C tr -dc A-Za-z0-9 < /dev/urandom  | fold -w ${1:-16} | head -n 1) 
     TMPFILE=$(echo ${TMPNOW}${RANDATA})
-    DEBUG echo "${TMPNOW} // ${RANDATA}"
-    return 
-}
+    DEBUG echo "${TMPNOW} // ${RANDATA}" 
+    return  
+} 
 
 function string_escape() {
     local type
@@ -76,25 +76,25 @@ function string_escape() {
         type="quote"
     fi
 
-    case "${type}" in
-        quote)
-            chars=="'\""
-        ;;
-        regex)
-            chars=']$.*+\^?()['
+    case "${type}" in 
+        quote) 
+            chars=="'\"" 
+        ;; 
+        regex) 
+            chars=']$.*+\^?()[' 
         ;;
         *)
             return 1
         ;;
     esac
 
-    if [[ -z "${1}" ]] && [ ! -t 0 ]; then
-        string=$(cat <&0)
-    else
-        string="${1}"
+    if [[ -z "${1}" ]] && [ ! -t 0 ]; then 
+        string=$(cat <&0) 
+    else 
+        string="${1}" 
     fi
 
-    echo "${string}" | sed -E "s/([${chars}])/\\\\\1/g"
+    echo "${string}" | sed -E "s/([${chars}])/\\\\\1/g" 
 }
 
 
@@ -180,9 +180,9 @@ fi
 
 ## Validating ags
 if [ "$#" -eq 2 ]; then
-        INPUTFILE=${1}
-        COUNTRIESFILE=${2}
-        DEBUG echo "countriesfile seted to: ${COUNTRIESFILE}"
+        INPUTFILE=${1} 
+        COUNTRIESFILE=${2} 
+        DEBUG echo "countriesfile seted to: ${COUNTRIESFILE}" 
 fi
 
 if [ ! "$#" -ge 1 ]; then
@@ -190,13 +190,13 @@ if [ ! "$#" -ge 1 ]; then
         exit 1
 else
         INPUTFILE=${1}
-        DEBUG echo "no countriesfile seted"
+        DEBUG echo "no countriesfile seted" 
 fi
 
 
-DEBUG echo "inputfile seted to: ${INPUTFILE}"
-DEBUG echo "tmpdir: /tmp/${TMPNOW}"
-DEBUG echo "tmpfile: ${TMPFILE}"
+DEBUG echo "inputfile seted to: ${INPUTFILE}" 
+DEBUG echo "tmpdir: /tmp/${TMPNOW}" 
+DEBUG echo "tmpfile: ${TMPFILE}" 
 
 if [ "${COUNTRIESFILE}" == "" ]; then
     getcountries
@@ -205,8 +205,8 @@ fi
 DEBUG echo "2x - countriesfile seted to: ${COUNTRIESFILE}"
 
 # forkcountries
-string_separator_camelcase "-" "This is a string" 
-string_camelcase_separator "d" "This Is A String" # This_Is_A_String
-
+string_separator_camelcase "-" "This is a string"  
+string_camelcase_separator "d" "This Is A String" # This_Is_A_String 
+ 
 
 restorenv
