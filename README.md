@@ -14,6 +14,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [COVID-19 Data Hub](https://github.com/covid19datahub/COVID19): Unified dataset for a better understanding of COVID-19
 - [covid-19-data](https://github.com/owid/covid-19-data): Data on COVID-19 (coronavirus) confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data.
 - [squire](https://mrc-ide.github.io/squire/) enables users to simulate models of SARS-CoV-2 epidemics. This is done using an age-structured SEIR model that also explicitly considers healthcare capacity and disease severity, repo: [squire](https://github.com/mrc-ide/squire): SEIR transmission model of COVID-19.
+- [covidregionaldata](https://github.com/epiforecasts/covidregionaldata): Data extraction tools for the Covid-19 outbreak.
 
 ## Simulators and Repos
 
@@ -167,6 +168,9 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Covid19](https://covid19.healthdata.org/projections) - university of Washington
 - [Corona Tracker](https://coronatracker.samabox.com)
 - [See how your community is moving around differently due to COVID-19](https://www.bloomberg.com/opinion/articles/2020-04-01/tracking-coronavirus-by-smell-test-is-risk-manager-s-project-now)
+- [CDC Activities and Initiatives Supporting the COVID-19 Response and the President’s Plan for Opening America Up Again](https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Activities-Initiatives-for-COVID-19-Response.pdf)
+- [covid-us-forecasts](https://github.com/epiforecasts/covid-us-forecasts): Epiforecasts: Covid-19 in US states.
+- [microCOVID](https://www.microcovid.org/calculator) Project. [repo](https://github.com/microcovid/microcovid)
 
 ### News
 
@@ -182,6 +186,15 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Novus Coronastatus](https://novus.se/novus-coronastatus/): The proportion of patients who have recently become ill is steadily increasing during the month of June, even the proportion who are ill for a long time, more than 10 weeks. In Novus's latest survey, 30% of those who are ill now report having been ill over the past week and 36% say they have been sick for 10 weeks.
 - [APT29 targets COVID-19 vaccine development](https://www.ncsc.gov.uk/news/advisory-apt29-targets-covid-19-vaccine-development)
 - [How to Understand COVID-19 Numbers](https://www.propublica.org/article/how-to-understand-covid-19-numbers)
+- (pt-br) [Efeitos não biológicos de COVID19](https://boletim.de/silvio/efeitos-nao-biologicos-de-covid19/)
+- [First dog in NC to test positive for coronavirus has died](https://www.wect.com/2020/08/11/first-dog-nc-test-positive-virus-that-causes-covid-has-died/)
+- [Immunology Is Where Intuition Goes to Die](https://www.theatlantic.com/health/archive/2020/08/covid-19-immunity-is-the-pandemics-central-mystery/614956/)
+- [Profile of a killer: the complex biology powering the coronavirus pandemic](https://www.nature.com/articles/d41586-020-01315-7)
+- [A teacher made a spreadsheet tracking covid-19 in schools. She has more than 700 entries.](https://www.washingtonpost.com/nation/2020/08/17/coronavirus-schools-reopening-teacher-spreadsheet/)
+- [There were 56 confirmed cases of Starbucks in Paju, but the reason why '4 employees' could be fine](https://translate.google.com/translate?hl=&sl=ko&tl=en&u=https%3A%2F%2Fwww.insight.co.kr%2Fnews%2F299857%3Ffbclid%3DIwAR3XtrhPNuF2EFE7ufVWJs0ZHs6tLAYilO7hgbhkCb6CIt4B3YtyGVpaa4E)
+- [Aerosols, Droplets, and Airborne Spread](https://first10em.com/aerosols-droplets-and-airborne-spread/): Everything you could possibly want to know
+- [Brazil Hands Out So Much Covid Cash That Poverty Nears a Low](https://www.bloomberg.com/news/articles/2020-09-02/brazil-hands-out-so-much-covid-cash-that-poverty-nears-a-new-low)
+- [Bradykinin and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/09/08/bradykinin-and-the-coronavirus)
 
 ## Papers
 
@@ -198,3 +211,12 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Multimodality Imaging in Evaluation of Cardiovascular complications in Patients with COVID-19](https://www.sciencedirect.com/science/article/pii/S0735109720360393?via%3Dihub)
 - [Outcomes of Cardiovascular Magnetic Resonance Imaging in Patients Recently Recovered From Coronavirus Disease 2019 (COVID-19)](https://jamanetwork.com/journals/jamacardiology/fullarticle/2768916)
 - [Cerebral Micro-Structural Changes in COVID-19 Patients – An MRI-based 3-month Follow-up Study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30228-5/fulltext)
+- [Elevated ACE2 expression in the olfactory neuroepithelium: implications for anosmia and upper respiratory SARS-CoV-2 entry and replication](https://erj.ersjournals.com/content/early/2020/07/23/13993003.01948-2020)
+- [Two metres or one: what is the evidence for physical distancing in covid-19?](https://www.bmj.com/content/370/bmj.m3223)
+- [COVID-19 Is Transmitted Through Aerosols. We Have Enough Evidence, Now It Is Time to Act](https://time.com/5883081/covid-19-transmitted-aerosols/)
+- [Assessment of SARS-CoV-2 Transmission on an International Flight and Among a Tourist Group](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2769383)
+- [Genomic Evidence for a Case of Reinfection with SARS-CoV-2](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3681489)
+- [Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19](https://jamanetwork.com/journals/jama/article-abstract/2770279)
+- [Effect of Hydrocortisone on 21-Day Mortality or Respiratory Support Among Critically Ill Patients With COVID-19](https://jamanetwork.com/journals/jama/article-abstract/2770276)
+- [Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
+- [Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients](https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext)
