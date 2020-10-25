@@ -15,6 +15,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [covid-19-data](https://github.com/owid/covid-19-data): Data on COVID-19 (coronavirus) confirmed cases, deaths, and tests • All countries • Updated daily by Our World in Data.
 - [squire](https://mrc-ide.github.io/squire/) enables users to simulate models of SARS-CoV-2 epidemics. This is done using an age-structured SEIR model that also explicitly considers healthcare capacity and disease severity, repo: [squire](https://github.com/mrc-ide/squire): SEIR transmission model of COVID-19.
 - [covidregionaldata](https://github.com/epiforecasts/covidregionaldata): Data extraction tools for the Covid-19 outbreak.
+- [Latin America Covid-19 Data Repository by DSRP](https://github.com/DataScienceResearchPeru/covid-19_latinoamerica)
+- [Systematic dataset of Covid-19 policy, from Oxford University](https://github.com/OxCGRT/covid-policy-tracker)
 
 ## Simulators and Repos
 
@@ -33,6 +35,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Temporal variation in transmission during the COVID-19 outbreak](https://epiforecasts.io/covid/): To identify changes in the reproduction number, rate of spread, and doubling time during the course of the COVID-19 outbreak at the national and subnational level whilst accounting for potential biases due to delays in case reporting. Repo: [covid](https://github.com/epiforecasts/covid): Temporal variation in transmission during the COVID-19 outbreak.
 - [COVIDMINDER](https://github.com/TheRensselaerIDEA/COVIDMINDER): Revealing regional disparities in outcomes, determinants, and mediations of the COVID-19 pandemic.
 - [tidycovid19](https://github.com/joachim-gassen/tidycovid19): An R Package to Download, Tidy and Visualize Covid-19 Related Data
+- [National and subnational estimates of the time-varying reproduction number for Covid-19](https://github.com/epiforecasts/covid-rt-estimates)
+- [covid19-dashboard](https://github.com/BrianRuizy/covid19-dashboard)￼: Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Found on ￼Awesome-list
 
 ## Outbreaks and Pandemics
 
@@ -171,6 +175,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [CDC Activities and Initiatives Supporting the COVID-19 Response and the President’s Plan for Opening America Up Again](https://www.cdc.gov/coronavirus/2019-ncov/downloads/php/CDC-Activities-Initiatives-for-COVID-19-Response.pdf)
 - [covid-us-forecasts](https://github.com/epiforecasts/covid-us-forecasts): Epiforecasts: Covid-19 in US states.
 - [microCOVID](https://www.microcovid.org/calculator) Project. [repo](https://github.com/microcovid/microcovid)
+- [Ozone machines](https://www.wiershop.com.br/)
 
 ### News
 
@@ -195,6 +200,10 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Aerosols, Droplets, and Airborne Spread](https://first10em.com/aerosols-droplets-and-airborne-spread/): Everything you could possibly want to know
 - [Brazil Hands Out So Much Covid Cash That Poverty Nears a Low](https://www.bloomberg.com/news/articles/2020-09-02/brazil-hands-out-so-much-covid-cash-that-poverty-nears-a-new-low)
 - [Bradykinin and the Coronavirus](https://blogs.sciencemag.org/pipeline/archives/2020/09/08/bradykinin-and-the-coronavirus)
+- [Study suggests dengue may provide some immunity against COVID-19](https://www.reuters.com/article/us-health-coronavirus-brazil-study-exclu/exclusive-study-suggests-dengue-may-provide-some-immunity-against-covid-19-idUSKCN26C27E)
+- [Un millón de muertes (que son más de un millón)](https://elpais.com/sociedad/2020-09-26/un-millon-de-muertes-que-son-mas-de-un-millon.html)
+- [How the world lost 1 million lives to Covid-19](https://www.straitstimes.com/multimedia/graphics/2020/09/coronavirus-one-million-lives-lost/index.html)
+- [Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm)
 
 ## Papers
 
@@ -220,3 +229,5 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Effect of Hydrocortisone on 21-Day Mortality or Respiratory Support Among Critically Ill Patients With COVID-19](https://jamanetwork.com/journals/jama/article-abstract/2770276)
 - [Facial Masking for Covid-19 — Potential for “Variolation” as We Await a Vaccine](https://www.nejm.org/doi/full/10.1056/NEJMp2026913)
 - [Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients](https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext)
+- [Nonpharmaceutical Intervetions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://fermatslibrary.com/s/nonpharmaceutical-interventions-implemented-by-us-cities-during-the-1918-1919-influenza-pandemic)
+- [COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study](https://www.thelancet.com/action/showPdf?pii=S2468-2667(20)30225-5)
