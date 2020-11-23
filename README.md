@@ -36,7 +36,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [COVIDMINDER](https://github.com/TheRensselaerIDEA/COVIDMINDER): Revealing regional disparities in outcomes, determinants, and mediations of the COVID-19 pandemic.
 - [tidycovid19](https://github.com/joachim-gassen/tidycovid19): An R Package to Download, Tidy and Visualize Covid-19 Related Data
 - [National and subnational estimates of the time-varying reproduction number for Covid-19](https://github.com/epiforecasts/covid-rt-estimates)
-- [covid19-dashboard](https://github.com/BrianRuizy/covid19-dashboard)￼: Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Found on ￼Awesome-list
+- [covid19-dashboard](https://github.com/BrianRuizy/covid19-dashboard): Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Found on Awesome-list
+- [corona](https://github.com/geohot/corona): Reverse engineering SARS-CoV-2
 
 ## Outbreaks and Pandemics
 
@@ -133,12 +134,13 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Observatório Covid19-BR](https://covid19br.github.io/index.html). [repositorio](https://github.com/covid19br/covid19br.github.io)
 - [COVID-19 Brazil API](https://github.com/devarthurribeiro/covid19-brazil-api): Notificação de casos de doença pelo coronavírus 2019 (COVID-19) no Brasil
 - [COVID-19 Brazil - time series data](https://github.com/elhenrico/covid19-Brazil-timeseries): Data collection to analyze the dissemination of COVID-19 through Brazilian states. Contributions are welcome.
-- [Farol Covid](https://farolcovid.coronacidades.org/): Entenda e controle a Covid-19 em sua cidade e estado. Repo: [FarolCovid](https://github.com/ImpulsoGov/farolcovid): ￼￼. Ferramenta de monitoramento do risco de colapso no sistema de saúde em municípios brasileiros com a Covid-19 • Monitoring tool & simulation of the risk of collapse in Brazilian municipalities' health system due to Covid-19. 
+- [Farol Covid](https://farolcovid.coronacidades.org/): Entenda e controle a Covid-19 em sua cidade e estado. Repo: [FarolCovid](https://github.com/ImpulsoGov/farolcovid): . Ferramenta de monitoramento do risco de colapso no sistema de saúde em municípios brasileiros com a Covid-19 • Monitoring tool & simulation of the risk of collapse in Brazilian municipalities' health system due to Covid-19. 
 - [Coronacidades API](https://github.com/ImpulsoGov/coronacidades-datasource): Repositório de construção da API que alimenta as ferramentas do Coronacidades • This repo runs our API for Coronacidades tools.
 - [Mapa brasileiro da COVID-19](https://mapabrasileirodacovid.inloco.com.br/pt/): O Índice de Isolamento Social foi desenvolvido pela Inloco para auxiliar no combate à pandemia da COVID-19 ao acompanhar o coronavírus no Brasil.
 - [BRInfo](https://github.com/fgrehm/brinfo): gregador de publicações feitas por instituições governamentais do Brasil.
 - [E se todos os mortos por Covid‑19 no Brasil fossem seus vizinhos?](https://piaui.folha.uol.com.br/lupa/epicentro/) [code](https://github.com/coldfoot/)
 - [Coronavírus | Covid-19 - Material para download](https://portal.fiocruz.br/coronavirus/material-para-download) by Fiocruz
+- [status das vacinas em nov/2020](https://twitter.com/analise_covid19/status/1328822803626397697)
 
 ## How to Help
 
@@ -176,6 +178,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [covid-us-forecasts](https://github.com/epiforecasts/covid-us-forecasts): Epiforecasts: Covid-19 in US states.
 - [microCOVID](https://www.microcovid.org/calculator) Project. [repo](https://github.com/microcovid/microcovid)
 - [Ozone machines](https://www.wiershop.com.br/)
+- [Our amazing immune system - Articles](https://berthub.eu/articles/posts/immune-system/)
 
 ### News
 
@@ -204,6 +207,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Un millón de muertes (que son más de un millón)](https://elpais.com/sociedad/2020-09-26/un-millon-de-muertes-que-son-mas-de-un-millon.html)
 - [How the world lost 1 million lives to Covid-19](https://www.straitstimes.com/multimedia/graphics/2020/09/coronavirus-one-million-lives-lost/index.html)
 - [Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm)
+- [Immunity to the Coronavirus May Last Years, New Data Hint - The New York Times](https://www.nytimes.com/2020/11/17/health/coronavirus-immunity.html#click=https://t.co/ntTmKxKjbm)
 
 ## Papers
 
