@@ -70,6 +70,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 
 - [Corona-Warn-App](https://github.com/corona-warn-app): The official COVID-19 exposure notification app for Germany.
 - [covid-tracker-app](https://github.com/HSEIreland/covid-tracker-app): Ireland COVID Tracker App Repository.
+- [COVID-19 Event Risk Assessment Planning Tool](https://covid19risk.biosci.gatech.edu/)
 
 ## 3D Printing
 
@@ -139,6 +140,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [BRInfo](https://github.com/fgrehm/brinfo): gregador de publicações feitas por instituições governamentais do Brasil.
 - [E se todos os mortos por Covid‑19 no Brasil fossem seus vizinhos?](https://piaui.folha.uol.com.br/lupa/epicentro/) [code](https://github.com/coldfoot/)
 - [Coronavírus | Covid-19 - Material para download](https://portal.fiocruz.br/coronavirus/material-para-download) by Fiocruz
+- [Vacinas candidatas para a COVID-19 – Atualizado em 30/11/2020](https://redeaanalisecovid.wordpress.com/2020/11/17/vacinas-candidatas-para-a-covid-19-atualizado-em-17-11-2020/)
+- [Um estudo quantificou a proteção para reinfecções de quem já produziu anticorpos para COVID-19](https://threadreaderapp.com/thread/1329755684355891200.html)
 
 ## How to Help
 
@@ -149,6 +152,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Simulating an epidemic](https://www.youtube.com/watch?v=gxAaO2rsdIs) by 3b1b, [animation code](https://github.com/3b1b/manim/blob/shaders/from_3b1b/active/sir.py)
 - [How To Tell If We're Beating COVID-19](https://www.youtube.com/watch?v=54XLXg4fYsc) by MinutePhysics
 - (pt-br) [Manejo Clínico do Covid-19](https://www.youtube.com/watch?v=38IxSb6aA08&feature=youtu.be) by CREMESP
+- [COVID-19 bubbles for every country (Nov 6, 2020 update)](https://www.youtube.com/watch?v=eeiguFaRil0&feature=youtu.be)
 
 ## Other stuff
 
@@ -204,6 +208,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Un millón de muertes (que son más de un millón)](https://elpais.com/sociedad/2020-09-26/un-millon-de-muertes-que-son-mas-de-un-millon.html)
 - [How the world lost 1 million lives to Covid-19](https://www.straitstimes.com/multimedia/graphics/2020/09/coronavirus-one-million-lives-lost/index.html)
 - [Adolescent with COVID-19 as the Source of an Outbreak at a 3-Week Family Gathering — Four States, June–July 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6940e2.htm)
+- [COVID-19 Data Literacy is for Everyone](https://medium.com/nightingale/covid-19-data-literacy-is-for-everyone-46120b58cec9)
+- [One in five COVID-19 patients develop mental illness within 90 days - study](https://www.reuters.com/article/health-coronavirus-mental-illness-int-idUSKBN27P35N)
 
 ## Papers
 
@@ -231,3 +237,4 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients](https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext)
 - [Nonpharmaceutical Intervetions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://fermatslibrary.com/s/nonpharmaceutical-interventions-implemented-by-us-cities-during-the-1918-1919-influenza-pandemic)
 - [COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study](https://www.thelancet.com/action/showPdf?pii=S2468-2667(20)30225-5)
+- [Evidence of Long-Distance Droplet Transmission of SARS-CoV-2 by Direct Air Flow in a Restaurant in Korea ](https://pubmed.ncbi.nlm.nih.gov/33258335/)
