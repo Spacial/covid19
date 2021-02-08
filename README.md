@@ -38,6 +38,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [National and subnational estimates of the time-varying reproduction number for Covid-19](https://github.com/epiforecasts/covid-rt-estimates)
 - [covid19-dashboard](https://github.com/BrianRuizy/covid19-dashboard): Django + Plotly Coronavirus dashboard. Powerful data driven Python web-app, with an awesome UI. Contributions welcomed! Found on Awesome-list
 - [corona](https://github.com/geohot/corona): Reverse engineering SARS-CoV-2
+- [cluster_scripts](https://github.com/emmahodcroft/cluster_scripts): Scripts to investigate the SUKS cluster.
 
 ## Outbreaks and Pandemics
 
@@ -141,9 +142,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [BRInfo](https://github.com/fgrehm/brinfo): gregador de publicações feitas por instituições governamentais do Brasil.
 - [E se todos os mortos por Covid‑19 no Brasil fossem seus vizinhos?](https://piaui.folha.uol.com.br/lupa/epicentro/) [code](https://github.com/coldfoot/)
 - [Coronavírus | Covid-19 - Material para download](https://portal.fiocruz.br/coronavirus/material-para-download) by Fiocruz
+- [GISAID](http://www.genomahcov.fiocruz.br/gisaid/): LINHAS DO SARS-CoV-2 EM CIRCULAÇÃO.
 - [Vacinas candidatas para a COVID-19 – Atualizado em 30/11/2020](https://redeaanalisecovid.wordpress.com/2020/11/17/vacinas-candidatas-para-a-covid-19-atualizado-em-17-11-2020/)
 - [Um estudo quantificou a proteção para reinfecções de quem já produziu anticorpos para COVID-19](https://threadreaderapp.com/thread/1329755684355891200.html)
 - [status das vacinas em nov/2020](https://twitter.com/analise_covid19/status/1328822803626397697)
+- [Escola Segura](https://github.com/ImpulsoGov/escolasegura): Salas abertas para estudantes. Portas fechadas para a Covid-19.
 
 ## How to Help
 
@@ -183,6 +186,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [microCOVID](https://www.microcovid.org/calculator) Project. [repo](https://github.com/microcovid/microcovid)
 - [Ozone machines](https://www.wiershop.com.br/)
 - [Our amazing immune system - Articles](https://berthub.eu/articles/posts/immune-system/)
+- [A Scraper to Collect Daily # of Deaths in Istanbul](https://github.com/nazliander/scrape-nr-of-deaths-istanbul)
 
 ### News
 
@@ -214,6 +218,13 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [COVID-19 Data Literacy is for Everyone](https://medium.com/nightingale/covid-19-data-literacy-is-for-everyone-46120b58cec9)
 - [One in five COVID-19 patients develop mental illness within 90 days - study](https://www.reuters.com/article/health-coronavirus-mental-illness-int-idUSKBN27P35N)
 - [Immunity to the Coronavirus May Last Years, New Data Hint - The New York Times](https://www.nytimes.com/2020/11/17/health/coronavirus-immunity.html#click=https://t.co/ntTmKxKjbm)
+- [A mysterious gap in COVID-19 deaths appeared in Florida before the presidential election](https://www.sun-sentinel.com/coronavirus/fl-ne-ss-prem-covid-deaths-florida-election-20201216-f4kgezjf4rf75ppumt4omxfsxy-story.html)
+- [We are over-cleaning in response to covid-19](https://www.washingtonpost.com/opinions/2020/12/11/covid-19-airborne-transmission-cleaning-surfaces/)
+- It's coming towards the end of the year, and there are still countless people minimizing the pandemic and spreading untruths: [So I thought I'd do a bit of a thread of FACTS about COVID-19 1/n](https://twitter.com/GidMK/status/1341175623310438401).
+- [SCIENTIFIC  [SELF] ISOLATION](https://laut.org.br/wp-content/uploads/2020/11/Political-Self-Isolation-vF.pdf): INTERNATIONAL TRENDS IN MISINFORMATION AND THE DEPARTURE FROM THE SCIENTIFIC DEBATE.
+- [Pfizer and Moderna’s “95% effective” vaccines—we need more details and the raw data](https://blogs.bmj.com/bmj/2021/01/04/peter-doshi-pfizer-and-modernas-95-effective-vaccines-we-need-more-details-and-the-raw-data/)
+- [A new #SARSCoV2 variant (aka B.1.1.248) identified by Japan ￼ in ￼pax from Brazil ￼. This new one has both the more infectious N501Y mutation (not affect vaccine), as well as the disruptive E484K mutation that escapes neutralizing antibodies.](https://twitter.com/DrEricDing/status/1348606324901359619)
+- [Lowest-cost virus suppression](https://twitter.com/yaneerbaryam/status/1357394268592168962)
 
 ## Papers
 
@@ -242,3 +253,6 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Nonpharmaceutical Intervetions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://fermatslibrary.com/s/nonpharmaceutical-interventions-implemented-by-us-cities-during-the-1918-1919-influenza-pandemic)
 - [COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study](https://www.thelancet.com/action/showPdf?pii=S2468-2667(20)30225-5)
 - [Evidence of Long-Distance Droplet Transmission of SARS-CoV-2 by Direct Air Flow in a Restaurant in Korea ](https://pubmed.ncbi.nlm.nih.gov/33258335/)
+- [Factors Associated with Positive SARS-CoV-2 Test Results in Outpatient Health Facilities and Emergency Departments Among Children and Adolescents Aged <18 Years — Mississippi, September–November 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6950e3.htm)
+- [Factors affecting perceived effectiveness of COVID-19 prevention measures among Filipinos during Enhanced Community Quarantine in Luzon, Philippines: Integrating Protection Motivation Theory and extended Theory of Planned Behavior](https://www.sciencedirect.com/science/article/pii/S1201971220306226)
+- [Possible Aerosol Transmission of COVID-19 Associated with an Outbreak in an Apartment in Seoul, South Korea, 2020](https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext) tweet -> [Possible #Airborne #SARSCoV2 Transmission through Air Ducts](https://twitter.com/AliNouriPhD/status/1341193351014572032)
