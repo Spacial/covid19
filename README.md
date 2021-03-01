@@ -235,3 +235,5 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients](https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext)
 - [Nonpharmaceutical Intervetions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://fermatslibrary.com/s/nonpharmaceutical-interventions-implemented-by-us-cities-during-the-1918-1919-influenza-pandemic)
 - [COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study](https://www.thelancet.com/action/showPdf?pii=S2468-2667(20)30225-5)
+- [Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations](https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563)
+
