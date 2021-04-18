@@ -118,8 +118,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
     - [el caso de Honduras](https://rpubs.com/klauswiese/HN_COVID19)
 - [google-mobility-reports-data](https://github.com/datasciencecampus/google-mobility-reports-data): Archive of data extracted from the google community mobility reports
 - [Covid 19 - Google Global Mobility Report](https://datastudio.google.com/reporting/a529e043-e2b9-4e6f-86c6-ec99a5d7b9a4/page/yY2MB?s=ho2bve3abdM): 
-- [Análises de nowcasting](https://github.com/covid19br/nowcasting): Repositório para análises de nowcasting
-  
+- [‘Real world’ study by CDC shows Pfizer and Moderna vaccines were 90% effective](https://www.statnews.com/2021/03/29/real-world-study-by-cdc-shows-pfizer-and-moderna-vaccines-were-90-effective/)  
+
 ### Brazil
 
 - [Com um 'bullshiter' no Planalto, covid-19 pode virar a peste negra brasileira](https://www.dw.com/pt-br/com-umbullshiterno-planalto-covid-19-pode-virar-a-peste-negra-brasileira/a-52809685)
@@ -147,6 +147,10 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Um estudo quantificou a proteção para reinfecções de quem já produziu anticorpos para COVID-19](https://threadreaderapp.com/thread/1329755684355891200.html)
 - [status das vacinas em nov/2020](https://twitter.com/analise_covid19/status/1328822803626397697)
 - [Escola Segura](https://github.com/ImpulsoGov/escolasegura): Salas abertas para estudantes. Portas fechadas para a Covid-19.
+- [Painel Conass sobre a COVID-19](https://www.conass.org.br/painelconasscovid19/)
+- [Vacinação: histórico e importância](https://cienciahoje.org.br/artigo/vacinacao-historico-e-importancia/)
+- [Não respire o ar alheio: como evitar o coronavírus em ambientes fechados](https://brasil.elpais.com/ciencia/2021-03-30/nao-respire-o-ar-alheio-como-evitar-o-coronavirus-em-ambientes-fechados.html)
+- [Análises de nowcasting](https://github.com/covid19br/nowcasting): Repositório para análises de nowcasting
 
 ## How to Help
 
@@ -187,6 +191,9 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Ozone machines](https://www.wiershop.com.br/)
 - [Our amazing immune system - Articles](https://berthub.eu/articles/posts/immune-system/)
 - [A Scraper to Collect Daily # of Deaths in Istanbul](https://github.com/nazliander/scrape-nr-of-deaths-istanbul)
+- Hydroxychloroquine: [A living WHO guideline on drugs to prevent covid-19](https://www.bmj.com/content/372/bmj.n526)
+- [COVID-19](https://covidvisualizer.com/): The goal of this project is to provide a simple, interactive way to visualize the impact of COVID-19.
+- [CellPAINT](https://ccsb.scripps.edu/cellpaint/): Digital Illustration from Atoms to Cells
 
 ### News
 
@@ -225,6 +232,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Pfizer and Moderna’s “95% effective” vaccines—we need more details and the raw data](https://blogs.bmj.com/bmj/2021/01/04/peter-doshi-pfizer-and-modernas-95-effective-vaccines-we-need-more-details-and-the-raw-data/)
 - [A new #SARSCoV2 variant (aka B.1.1.248) identified by Japan ￼ in ￼pax from Brazil ￼. This new one has both the more infectious N501Y mutation (not affect vaccine), as well as the disruptive E484K mutation that escapes neutralizing antibodies.](https://twitter.com/DrEricDing/status/1348606324901359619)
 - [Lowest-cost virus suppression](https://twitter.com/yaneerbaryam/status/1357394268592168962)
+- [Not many know, but it was Kim who alerted Fauci on airborne #SARSCoV2. If it weren’t for her, we still wouldn’t have airborne guidelines.](https://twitter.com/DrEricDing/status/1329582666883231744)
+- [Risk of coronavirus transmission in different settings](https://twitter.com/DrEricDing/status/1310234275762106370/photo/1)
+- [Coronavirus mutation Q677H](https://twitter.com/DrEricDing/status/1361300279203946497)
+- [Summarized the evidence for airborne spread of Measles vs. COVID-19 in a table](https://twitter.com/JenniferKShea/status/1373840694176010240)
+- [Bad US trajectory—proportion of cases #B117 is increasing at a rate of ∼7.5% per day.](https://twitter.com/DrEricDing/status/1376960485522804742)
 
 ## Papers
 
@@ -252,9 +264,14 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients](https://www.ijidonline.com/article/S1201-9712(20)30739-6/fulltext)
 - [Nonpharmaceutical Intervetions Implemented by US Cities During the 1918-1919 Influenza Pandemic](https://fermatslibrary.com/s/nonpharmaceutical-interventions-implemented-by-us-cities-during-the-1918-1919-influenza-pandemic)
 - [COVID-19 in New Zealand and the impact of the national response: a descriptive epidemiological study](https://www.thelancet.com/action/showPdf?pii=S2468-2667(20)30225-5)
+- [Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations](https://virological.org/t/preliminary-genomic-characterisation-of-an-emergent-sars-cov-2-lineage-in-the-uk-defined-by-a-novel-set-of-spike-mutations/563)
 - [Evidence of Long-Distance Droplet Transmission of SARS-CoV-2 by Direct Air Flow in a Restaurant in Korea ](https://pubmed.ncbi.nlm.nih.gov/33258335/)
 - [Factors Associated with Positive SARS-CoV-2 Test Results in Outpatient Health Facilities and Emergency Departments Among Children and Adolescents Aged <18 Years — Mississippi, September–November 2020](https://www.cdc.gov/mmwr/volumes/69/wr/mm6950e3.htm)
 - [Factors affecting perceived effectiveness of COVID-19 prevention measures among Filipinos during Enhanced Community Quarantine in Luzon, Philippines: Integrating Protection Motivation Theory and extended Theory of Planned Behavior](https://www.sciencedirect.com/science/article/pii/S1201971220306226)
 - [Possible Aerosol Transmission of COVID-19 Associated with an Outbreak in an Apartment in Seoul, South Korea, 2020](https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext) tweet -> [Possible #Airborne #SARSCoV2 Transmission through Air Ducts](https://twitter.com/AliNouriPhD/status/1341193351014572032)
 - [CovMT: an interactive SARS-CoV-2 mutation tracker, with a focus on critical variant](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00078-5/fulltext)
 - [Effectiveness of Mask Wearing to Control Community Spread of SARS-CoV-2](https://jamanetwork.com/journals/jama/fullarticle/2776536)
+- [Reducing transmission of SARS-CoV-2](https://science.sciencemag.org/content/368/6498/1422)
+- [Radiological patterns of incidental epididymitis in mild‐to‐moderate COVID‐19 patients revealed by colour Doppler ultrasound](https://onlinelibrary.wiley.com/doi/10.1111/and.13973)
+- [Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 during Border Quarantine and Air Travel, New Zealand (Aotearoa)](https://doi.org/10.3201/eid2705.210514)
+- [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
