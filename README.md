@@ -151,6 +151,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Vacinação: histórico e importância](https://cienciahoje.org.br/artigo/vacinacao-historico-e-importancia/)
 - [Não respire o ar alheio: como evitar o coronavírus em ambientes fechados](https://brasil.elpais.com/ciencia/2021-03-30/nao-respire-o-ar-alheio-como-evitar-o-coronavirus-em-ambientes-fechados.html)
 - [Análises de nowcasting](https://github.com/covid19br/nowcasting): Repositório para análises de nowcasting
+- [As mortes por erro de profissionais de saúde nas UTIs: reflexo da falta de controle da pandemia](https://theintercept.com/2021/04/20/mortes-uti-colapso-covid-medicos-pandemia/):  Com o vírus à solta, a necessária flexibilização de contratos tem como efeito colateral o aumento de procedimentos malsucedidos.
 
 ## How to Help
 
@@ -237,6 +238,10 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Coronavirus mutation Q677H](https://twitter.com/DrEricDing/status/1361300279203946497)
 - [Summarized the evidence for airborne spread of Measles vs. COVID-19 in a table](https://twitter.com/JenniferKShea/status/1373840694176010240)
 - [Bad US trajectory—proportion of cases #B117 is increasing at a rate of ∼7.5% per day.](https://twitter.com/DrEricDing/status/1376960485522804742)
+- [How Safe Are You From Covid When You Fly?](https://www.nytimes.com/interactive/2021/04/17/travel/flying-plane-covid-19-safety.html)
+- [Why are so many babies dying of Covid-19 in Brazil?](https://www.bbc.com/news/world-latin-america-56696907)
+- [Mortality outcomes with hydroxychloroquine and chloroquine in COVID-19 from an international collaborative meta-analysis of randomized trials](https://www.nature.com/articles/s41467-021-22446-z)
+- [corticosterois as adjunctive therapy](https://twitter.com/CrestaniFilho/status/1383971443809996806)
 
 ## Papers
 
@@ -275,3 +280,5 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Radiological patterns of incidental epididymitis in mild‐to‐moderate COVID‐19 patients revealed by colour Doppler ultrasound](https://onlinelibrary.wiley.com/doi/10.1111/and.13973)
 - [Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 during Border Quarantine and Air Travel, New Zealand (Aotearoa)](https://doi.org/10.3201/eid2705.210514)
 - [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
+- [Spatiotemporal pattern of COVID-19 spread in Brazil](https://science.sciencemag.org/content/early/2021/04/13/science.abh1558)
+- [Ten scientific reasons in support of airborne transmission of SARS-CoV-2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext)
