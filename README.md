@@ -152,6 +152,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Não respire o ar alheio: como evitar o coronavírus em ambientes fechados](https://brasil.elpais.com/ciencia/2021-03-30/nao-respire-o-ar-alheio-como-evitar-o-coronavirus-em-ambientes-fechados.html)
 - [Análises de nowcasting](https://github.com/covid19br/nowcasting): Repositório para análises de nowcasting
 - [As mortes por erro de profissionais de saúde nas UTIs: reflexo da falta de controle da pandemia](https://theintercept.com/2021/04/20/mortes-uti-colapso-covid-medicos-pandemia/):  Com o vírus à solta, a necessária flexibilização de contratos tem como efeito colateral o aumento de procedimentos malsucedidos.
+- [Impacto do uso de antibióticos no "kit" anti-ciencia ineficaz](https://twitter.com/CrestaniFilho/status/1385386623836299267)
 
 ## How to Help
 
