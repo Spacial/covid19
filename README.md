@@ -283,3 +283,4 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
 - [Spatiotemporal pattern of COVID-19 spread in Brazil](https://science.sciencemag.org/content/early/2021/04/13/science.abh1558)
 - [Ten scientific reasons in support of airborne transmission of SARS-CoV-2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext)
+- [Isolation of SARS-CoV-2 from the air in a car driven by a COVID patient with mild illness](https://www.ijidonline.com/article/S1201-9712(21)00375-1/fulltext)
