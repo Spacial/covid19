@@ -152,6 +152,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Não respire o ar alheio: como evitar o coronavírus em ambientes fechados](https://brasil.elpais.com/ciencia/2021-03-30/nao-respire-o-ar-alheio-como-evitar-o-coronavirus-em-ambientes-fechados.html)
 - [Análises de nowcasting](https://github.com/covid19br/nowcasting): Repositório para análises de nowcasting
 - [As mortes por erro de profissionais de saúde nas UTIs: reflexo da falta de controle da pandemia](https://theintercept.com/2021/04/20/mortes-uti-colapso-covid-medicos-pandemia/):  Com o vírus à solta, a necessária flexibilização de contratos tem como efeito colateral o aumento de procedimentos malsucedidos.
+- [Pesquisa da Faculdade de Medicina da USP identificou lesões em todos os órgãos vitais em decorrência do coronavírus em crianças que morreram da doença.](https://twitter.com/luizacaires3/status/1387507274160164868) [noticia](https://jornal.usp.br/ciencias/lesoes-em-orgaos-revelam-efeitos-de-sindrome-ligada-a-covid-grave-em-criancas/)
 
 ## How to Help
 
@@ -242,6 +243,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Why are so many babies dying of Covid-19 in Brazil?](https://www.bbc.com/news/world-latin-america-56696907)
 - [Mortality outcomes with hydroxychloroquine and chloroquine in COVID-19 from an international collaborative meta-analysis of randomized trials](https://www.nature.com/articles/s41467-021-22446-z)
 - [corticosterois as adjunctive therapy](https://twitter.com/CrestaniFilho/status/1383971443809996806)
+- [Post-vaccination Inertia Is Real](https://www.theatlantic.com/health/archive/2021/04/post-vaccination-inertia/618751/): Readjusting our ideas about what’s safe is going to take time.
+- [Maior fabricante de hidroxicloroquina, Apsen recebeu R$ 20 milhões do BNDES em 2020](https://reporterbrasil.org.br/2021/03/maior-fabricante-de-hidroxicloroquina-apsen-recebeu-r-20-milhoes-do-bndes-em-2020/)
+- ['When will it end?': How a changing virus is reshaping scientists’ views on COVID-19](https://www.reuters.com/article/idUSKBN2AV1T1)
+- [India, Brazil and the human cost of sidelining science](https://www.nature.com/articles/d41586-021-01166-w): Governments that ignore or delay acting on scientific advice are missing out on a crucial opportunity to control the pandemic.
+- to verify: [IT ALSO CAUSES IMMEDIATE ENDOTHELIAL DAMAGE](https://twitter.com/Parsifaler/status/1391394207680577537)
 
 ## Papers
 
@@ -282,3 +288,5 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273](https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf)
 - [Spatiotemporal pattern of COVID-19 spread in Brazil](https://science.sciencemag.org/content/early/2021/04/13/science.abh1558)
 - [Ten scientific reasons in support of airborne transmission of SARS-CoV-2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext)
+- [The Disastrous Effects of Leaders in Denial: Evidence from the COVID-19 Crisis in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836147)
+- [Neutralizing antibody vaccine for pandemic and pre-emergent coronaviruses](https://www.nature.com/articles/s41586-021-03594-0)
