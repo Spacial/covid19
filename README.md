@@ -153,6 +153,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Análises de nowcasting](https://github.com/covid19br/nowcasting): Repositório para análises de nowcasting
 - [As mortes por erro de profissionais de saúde nas UTIs: reflexo da falta de controle da pandemia](https://theintercept.com/2021/04/20/mortes-uti-colapso-covid-medicos-pandemia/):  Com o vírus à solta, a necessária flexibilização de contratos tem como efeito colateral o aumento de procedimentos malsucedidos.
 - [Pesquisa da Faculdade de Medicina da USP identificou lesões em todos os órgãos vitais em decorrência do coronavírus em crianças que morreram da doença.](https://twitter.com/luizacaires3/status/1387507274160164868) [noticia](https://jornal.usp.br/ciencias/lesoes-em-orgaos-revelam-efeitos-de-sindrome-ligada-a-covid-grave-em-criancas/)
+- [Impacto do uso de antibióticos no "kit" anti-ciencia ineficaz](https://twitter.com/CrestaniFilho/status/1385386623836299267)
 
 ## How to Help
 
@@ -290,3 +291,4 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Ten scientific reasons in support of airborne transmission of SARS-CoV-2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00869-2/fulltext)
 - [The Disastrous Effects of Leaders in Denial: Evidence from the COVID-19 Crisis in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836147)
 - [Neutralizing antibody vaccine for pandemic and pre-emergent coronaviruses](https://www.nature.com/articles/s41586-021-03594-0)
+- [Isolation of SARS-CoV-2 from the air in a car driven by a COVID patient with mild illness](https://www.ijidonline.com/article/S1201-9712(21)00375-1/fulltext)
