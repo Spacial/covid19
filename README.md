@@ -154,6 +154,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [As mortes por erro de profissionais de saúde nas UTIs: reflexo da falta de controle da pandemia](https://theintercept.com/2021/04/20/mortes-uti-colapso-covid-medicos-pandemia/):  Com o vírus à solta, a necessária flexibilização de contratos tem como efeito colateral o aumento de procedimentos malsucedidos.
 - [Pesquisa da Faculdade de Medicina da USP identificou lesões em todos os órgãos vitais em decorrência do coronavírus em crianças que morreram da doença.](https://twitter.com/luizacaires3/status/1387507274160164868) [noticia](https://jornal.usp.br/ciencias/lesoes-em-orgaos-revelam-efeitos-de-sindrome-ligada-a-covid-grave-em-criancas/)
 - [Impacto do uso de antibióticos no "kit" anti-ciencia ineficaz](https://twitter.com/CrestaniFilho/status/1385386623836299267)
+- [TrateCov](https://github.com/RodrigoMenegat/autopsia-do-tratecov/)
 
 ## How to Help
 
@@ -197,6 +198,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - Hydroxychloroquine: [A living WHO guideline on drugs to prevent covid-19](https://www.bmj.com/content/372/bmj.n526)
 - [COVID-19](https://covidvisualizer.com/): The goal of this project is to provide a simple, interactive way to visualize the impact of COVID-19.
 - [CellPAINT](https://ccsb.scripps.edu/cellpaint/): Digital Illustration from Atoms to Cells
+- [The Economist's excess deaths model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)
+- [The Pango](https://www.pango.network/) dynamic nomenclature is a system for identifying SARS-CoV-2 genetic lineages of epidemiological relevance.
 
 ### News
 
@@ -249,6 +252,14 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - ['When will it end?': How a changing virus is reshaping scientists’ views on COVID-19](https://www.reuters.com/article/idUSKBN2AV1T1)
 - [India, Brazil and the human cost of sidelining science](https://www.nature.com/articles/d41586-021-01166-w): Governments that ignore or delay acting on scientific advice are missing out on a crucial opportunity to control the pandemic.
 - to verify: [IT ALSO CAUSES IMMEDIATE ENDOTHELIAL DAMAGE](https://twitter.com/Parsifaler/status/1391394207680577537)
+- [Preventing and mitigating COVID-19 at work](https://www.who.int/publications/i/item/WHO-2019-nCoV-workplace-actions-policy-brief-2021-1) by WHO Headquarters (HQ)
+- [Vacinas contra covid-19 só chegarão para todo mundo no fim de 2023 no ritmo atual, calcula editor-chefe da Lancet](https://www.bbc.com/portuguese/internacional-57165481)
+- [Brasil e China resistem à proposta de dar mais poder para a OMS em surtos](https://noticias.uol.com.br/colunas/jamil-chade/2021/05/20/brasil-e-china-barram-proposta-para-dar-mais-poder-para-a-oms-em-pandemias.htm?cmpid=copiaecola)
+- [Why Is Covid Killing So Many Young Children in Brazil? Doctors Are Baffled](https://www.nytimes.com/2021/05/16/world/americas/brazil-covid-child-deaths.html)
+- [SARS-CoV-2 naming system given open platform to harness international scientific collaboration](https://www.ox.ac.uk/news/2021-05-26-sars-cov-2-naming-system-given-open-platform-harness-international-scientific)
+- [Immunity to the Coronavirus May Persist for Years, Scientists Find](https://www.nytimes.com/2021/05/26/health/coronavirus-immunity-vaccines.html)
+- [The name game for coronavirus variants just got a little easier](https://www.statnews.com/2021/05/31/the-name-game-for-coronavirus-variants-just-got-a-little-easier/)
+- [Estudio de efectividad de vacunas en Uruguay: 57% Sinovac y 75% Pfizer para evitar la enfermedad](https://www.elpais.com.uy/informacion/salud/estudio-efectividad-vacunas-uruguay-sinovac-pfizer-evitar-enfermedad.html)
 
 ## Papers
 
@@ -292,3 +303,6 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [The Disastrous Effects of Leaders in Denial: Evidence from the COVID-19 Crisis in Brazil](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3836147)
 - [Neutralizing antibody vaccine for pandemic and pre-emergent coronaviruses](https://www.nature.com/articles/s41586-021-03594-0)
 - [Isolation of SARS-CoV-2 from the air in a car driven by a COVID patient with mild illness](https://www.ijidonline.com/article/S1201-9712(21)00375-1/fulltext)
+- [Release of infectious virus and cytokines in nasopharyngeal swabs from individuals infected with non-B.1.1.7 or B.1.1.7 SARS-CoV-2 variants](https://www.medrxiv.org/content/10.1101/2021.05.20.21257393v1)
+- [Frequent and Persistent Salivary Gland Ectasia and Oral Disease After COVID-19](https://journals.sagepub.com/doi/full/10.1177/0022034521997112)
+- [Nasopharyngeal Microbiota in SARS-CoV-2 Positive and Negative Patients](https://biologicalproceduresonline.biomedcentral.com/articles/10.1186/s12575-021-00148-6)
