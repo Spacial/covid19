@@ -263,3 +263,5 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Possible Aerosol Transmission of COVID-19 Associated with an Outbreak in an Apartment in Seoul, South Korea, 2020](https://www.ijidonline.com/article/S1201-9712(20)32558-3/fulltext) tweet -> [Possible #Airborne #SARSCoV2 Transmission through Air Ducts](https://twitter.com/AliNouriPhD/status/1341193351014572032)
 - [Reducing transmission of SARS-CoV-2](https://science.sciencemag.org/content/368/6498/1422)
 - [Radiological patterns of incidental epididymitis in mild‐to‐moderate COVID‐19 patients revealed by colour Doppler ultrasound](https://onlinelibrary.wiley.com/doi/10.1111/and.13973)
+- [Effect of Ivermectin on Time to Resolution of Symptoms Among Adults With Mild COVID-19: A Randomized Clinical Trial | Infectious Diseases | JAMA | JAMA Network](https://jamanetwork.com/journals/jama/fullarticle/2777389)
+
