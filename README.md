@@ -155,6 +155,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Pesquisa da Faculdade de Medicina da USP identificou lesões em todos os órgãos vitais em decorrência do coronavírus em crianças que morreram da doença.](https://twitter.com/luizacaires3/status/1387507274160164868) [noticia](https://jornal.usp.br/ciencias/lesoes-em-orgaos-revelam-efeitos-de-sindrome-ligada-a-covid-grave-em-criancas/)
 - [Impacto do uso de antibióticos no "kit" anti-ciencia ineficaz](https://twitter.com/CrestaniFilho/status/1385386623836299267)
 - [TrateCov](https://github.com/RodrigoMenegat/autopsia-do-tratecov/)
+- [Número de casos confirmados de COVID-19 no Brasil](https://covid19br.wcota.me/)
 
 ## How to Help
 
@@ -263,6 +264,9 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [A pandemic upside: The flu virus became less diverse, simplifying the task of making flu shots](https://www.statnews.com/2021/06/02/pandemic-upside-flu-virus-became-less-diverse-simplifying-task-of-making-flu-shots/)
 - [Americans seek compensation for failed COVID-19 treatments from U.S. fund](https://www.reuters.com/article/us-health-coronavirus-usa-compensation/americans-seek-compensation-for-failed-covid-19-treatments-from-u-s-fund-idUSKBN2B31DH)
 - [Belgium's Van Ranst: Covid scientist targeted by a far-right sniper](https://www.bbc.com/news/world-europe-57358492)
+- [Was COVID-19 Created in a Laboratory?](https://gidmk.medium.com/was-covid-19-created-in-a-laboratory-88dd731c627e): The lab leak theory is possible, but that doesn’t make it likely.
+- [Israel data reportedly shows drop in efficacy of Pfizer-BioNTech vaccine as delta variant spreads](https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/)
+- [Why Are So Many of My Fellow Health Workers Unvaccinated?](https://www.nytimes.com/2021/05/28/opinion/vaccine-hesitancy-health-workers-covid.html)
 
 ## Papers
 
@@ -310,3 +314,5 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Release of infectious virus and cytokines in nasopharyngeal swabs from individuals infected with non-B.1.1.7 or B.1.1.7 SARS-CoV-2 variants](https://www.medrxiv.org/content/10.1101/2021.05.20.21257393v1)
 - [Frequent and Persistent Salivary Gland Ectasia and Oral Disease After COVID-19](https://journals.sagepub.com/doi/full/10.1177/0022034521997112)
 - [Nasopharyngeal Microbiota in SARS-CoV-2 Positive and Negative Patients](https://biologicalproceduresonline.biomedcentral.com/articles/10.1186/s12575-021-00148-6)
+- [Ivermectin to prevent hospitalizations in patients with COVID-19 (IVERCOR-COVID19) a randomized, double-blind, placebo-controlled trial](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06348-5)
+- [SARS-CoV-2 immune evasion by the B.1.427/B.1.429 variant of concern](https://science.sciencemag.org/content/early/2021/06/30/science.abi7994.full)
