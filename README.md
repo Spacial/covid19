@@ -316,3 +316,4 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Nasopharyngeal Microbiota in SARS-CoV-2 Positive and Negative Patients](https://biologicalproceduresonline.biomedcentral.com/articles/10.1186/s12575-021-00148-6)
 - [Ivermectin to prevent hospitalizations in patients with COVID-19 (IVERCOR-COVID19) a randomized, double-blind, placebo-controlled trial](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06348-5)
 - [SARS-CoV-2 immune evasion by the B.1.427/B.1.429 variant of concern](https://science.sciencemag.org/content/early/2021/06/30/science.abi7994.full)
+- [Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant](https://www.nejm.org/doi/full/10.1056/NEJMoa2108891)
