@@ -267,6 +267,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Was COVID-19 Created in a Laboratory?](https://gidmk.medium.com/was-covid-19-created-in-a-laboratory-88dd731c627e): The lab leak theory is possible, but that doesn’t make it likely.
 - [Israel data reportedly shows drop in efficacy of Pfizer-BioNTech vaccine as delta variant spreads](https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/)
 - [Why Are So Many of My Fellow Health Workers Unvaccinated?](https://www.nytimes.com/2021/05/28/opinion/vaccine-hesitancy-health-workers-covid.html)
+- [Report on the operation and effectiveness of the COVIDSafe application](https://github.com/AusOpenTech/COVIDSafe-Report)
 
 ## Papers
 
@@ -317,3 +318,4 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Ivermectin to prevent hospitalizations in patients with COVID-19 (IVERCOR-COVID19) a randomized, double-blind, placebo-controlled trial](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-021-06348-5)
 - [SARS-CoV-2 immune evasion by the B.1.427/B.1.429 variant of concern](https://science.sciencemag.org/content/early/2021/06/30/science.abi7994.full)
 - [Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant](https://www.nejm.org/doi/full/10.1056/NEJMoa2108891)
+- [We have published new data looking at suicide deaths that occurred in the early months of the #coronavirus pandemic (April to July 2020)](https://twitter.com/ONS/status/1433353113252028417) [Deaths from suicide that occurred in England and Wales: April to July 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsfromsuicidethatoccurredinenglandandwales/aprilandjuly2020)
