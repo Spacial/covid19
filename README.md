@@ -156,6 +156,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Impacto do uso de antibióticos no "kit" anti-ciencia ineficaz](https://twitter.com/CrestaniFilho/status/1385386623836299267)
 - [TrateCov](https://github.com/RodrigoMenegat/autopsia-do-tratecov/)
 - [Número de casos confirmados de COVID-19 no Brasil](https://covid19br.wcota.me/)
+- [Dashboard de disponibilidade de vacinas contra COVID-19 no Brasil](https://apolinar.io/vacinas/)
+- [Nowcasting para hospitalizações e óbitos por SRAG e SRAG-COVID](https://gitlab.procc.fiocruz.br/lsbastos/nowcasting_data/)
 
 ## How to Help
 
@@ -201,6 +203,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [CellPAINT](https://ccsb.scripps.edu/cellpaint/): Digital Illustration from Atoms to Cells
 - [The Economist's excess deaths model](https://github.com/TheEconomist/covid-19-the-economist-global-excess-deaths-model)
 - [The Pango](https://www.pango.network/) dynamic nomenclature is a system for identifying SARS-CoV-2 genetic lineages of epidemiological relevance.
+- [vacdec](https://github.com/hannob/vacdec): Python script to decode the EU Covid-19 vaccine certificate
 
 ### News
 
@@ -268,6 +271,15 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Israel data reportedly shows drop in efficacy of Pfizer-BioNTech vaccine as delta variant spreads](https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/)
 - [Why Are So Many of My Fellow Health Workers Unvaccinated?](https://www.nytimes.com/2021/05/28/opinion/vaccine-hesitancy-health-workers-covid.html)
 - [Report on the operation and effectiveness of the COVIDSafe application](https://github.com/AusOpenTech/COVIDSafe-Report)
+- ['Proof' that 100%* of SARS-CoV-2 transmission is via the airborne [aerosol inhalation] route](https://twitter.com/DRTomlinsonEP/status/1436214995239456769)
+- (pt-br) [EUA LIBERAM DOCUMENTOS SOBRE A PESQUISA COM CORONAVÍRUS NO LABORATÓRIO DE WUHAN](https://theintercept.com/2021/09/17/documentos-coronavirus-laboratorio-de-wuhan/)
+- Reuters COVID-19 TRACKER, some examples: [Brazil](https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/brazil/) [Portugal](https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/portugal/)
+- [What We Know About Covid, the Flu and the Air We Breathe](https://www.nytimes.com/2021/10/19/opinion/covid-flu-air-transmission.html)
+- [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html)
+- [Pfizer’s Covid pill remains 89% effective in final analysis, company says](https://www.oregonlive.com/marijuana/2021/12/worlds-largest-pot-brownie-weighs-in-at-850-pounds-for-national-brownie-day.html)
+- [For elite footballers, the effects of covid-19 linger for months](https://www.economist.com/graphic-detail/2022/01/08/for-elite-footballers-the-effects-of-covid-19-linger-for-months): Long after infection, players play fewer minutes and complete fewer passes
+- [Scientists believed Covid leaked from Wuhan lab - but feared debate could hurt ‘international harmony’](https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/)
+- [What the Omicron wave is revealing about human immunity](https://www.nature.com/articles/d41586-022-00214-3)
 
 ## Papers
 
@@ -319,3 +331,11 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [SARS-CoV-2 immune evasion by the B.1.427/B.1.429 variant of concern](https://science.sciencemag.org/content/early/2021/06/30/science.abi7994.full)
 - [Effectiveness of Covid-19 Vaccines against the B.1.617.2 (Delta) Variant](https://www.nejm.org/doi/full/10.1056/NEJMoa2108891)
 - [We have published new data looking at suicide deaths that occurred in the early months of the #coronavirus pandemic (April to July 2020)](https://twitter.com/ONS/status/1433353113252028417) [Deaths from suicide that occurred in England and Wales: April to July 2020](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/deathsfromsuicidethatoccurredinenglandandwales/aprilandjuly2020)
+- [Low-dose mRNA-1273 COVID-19 vaccine generates durable memory enhanced by cross-reactive T cells](https://www.science.org/doi/10.1126/science.abj9853)
+- [The Vaccination Threshold for SARS-CoV-2 Depends on the Indoor Setting and Room Ventilation](https://www.medrxiv.org/content/10.1101/2021.07.28.21261300v1)
+- [The spike protein of SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies with high efficiency](https://www.nature.com/articles/s41423-021-00779-5)
+- [Emergence in Southern France of a new SARS-CoV-2 variant of probably Cameroonian origin harbouring both substitutions N501Y and E484K in the spike protein](https://www.medrxiv.org/content/10.1101/2021.12.24.21268174v1)
+- [New-onset autoimmune phenomena post-COVID-19 vaccination](https://onlinelibrary.wiley.com/doi/10.1111/imm.13443)
+- [Fatigue and cognitive impairment in Post-COVID-19 Syndrome: A systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S0889159121006516)
+- [Active epidemiological investigation on SARS-CoV-2 infection caused by Omicron variant (Pango lineage B.1.1.529) in Japan: preliminary report on infectious period](https://www.niid.go.jp/niid/en/2019-ncov-e/10884-covid19-66-en.html)
+- [Long-term cardiovascular outcomes of COVID-19](https://www.nature.com/articles/s41591-022-01689-3)
