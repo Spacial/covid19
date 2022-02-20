@@ -125,7 +125,8 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Com um 'bullshiter' no Planalto, covid-19 pode virar a peste negra brasileira](https://www.dw.com/pt-br/com-umbullshiterno-planalto-covid-19-pode-virar-a-peste-negra-brasileira/a-52809685)
 - [Covid Zero](http://covidzero.com.br/como-ajudar/): DADOS EM TEMPO REAL PARA ERRADICAÇÃO DO CORONAVIRUS
 - [corona virus em presidente prudente- sp](https://www.inovaprudente.com.br/coronavirus)
-- [covid-br-sheets](https://github.com/mtrpires/covid-br-sheets): A Google Sheet that scrapes and stores data from covid.saude.gov.br
+- [covid-br-sheets](https://github.co
+m/mtrpires/covid-br-sheets): A Google Sheet that scrapes and stores data from covid.saude.gov.br
 - [covid19](https://github.com/hitalos/covid19): Mapa do Covid-19 no Brasil
 - [covid19-brasilio-data-fetch](https://github.com/endoedgar/covid19-brasilio-data-fetch)
 - [Portal COVID19 — Setor de Ciências Exatas/UFPR](http://covid.c3sl.ufpr.br)
@@ -155,6 +156,7 @@ Resources about Covid-19, data, links, repos, and a lot of stuff
 - [Pesquisa da Faculdade de Medicina da USP identificou lesões em todos os órgãos vitais em decorrência do coronavírus em crianças que morreram da doença.](https://twitter.com/luizacaires3/status/1387507274160164868) [noticia](https://jornal.usp.br/ciencias/lesoes-em-orgaos-revelam-efeitos-de-sindrome-ligada-a-covid-grave-em-criancas/)
 - [Impacto do uso de antibióticos no "kit" anti-ciencia ineficaz](https://twitter.com/CrestaniFilho/status/1385386623836299267)
 - [TrateCov](https://github.com/RodrigoMenegat/autopsia-do-tratecov/)
+- [Rede Analise Covid-19](https://bit.ly/Rede_SIVEPGRIPE)
 
 ## How to Help
 
