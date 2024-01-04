@@ -283,6 +283,7 @@ m/mtrpires/covid-br-sheets): A Google Sheet that scrapes and stores data from co
 - [For elite footballers, the effects of covid-19 linger for months](https://www.economist.com/graphic-detail/2022/01/08/for-elite-footballers-the-effects-of-covid-19-linger-for-months): Long after infection, players play fewer minutes and complete fewer passes
 - [Scientists believed Covid leaked from Wuhan lab - but feared debate could hurt ‘international harmony’](https://www.telegraph.co.uk/news/2022/01/11/scientists-believed-covid-leaked-wuhan-lab-feared-debate-could/)
 - [What the Omicron wave is revealing about human immunity](https://www.nature.com/articles/d41586-022-00214-3)
+- [One of Long COVID’s Worst Symptoms Is Also Its Most Misunderstood](https://www.theatlantic.com/health/archive/2022/09/long-covid-brain-fog-symptom-executive-function/671393/)
 
 ## Papers
 
@@ -343,3 +344,6 @@ m/mtrpires/covid-br-sheets): A Google Sheet that scrapes and stores data from co
 - [Active epidemiological investigation on SARS-CoV-2 infection caused by Omicron variant (Pango lineage B.1.1.529) in Japan: preliminary report on infectious period](https://www.niid.go.jp/niid/en/2019-ncov-e/10884-covid19-66-en.html)
 - [Long-term cardiovascular outcomes of COVID-19](https://www.nature.com/articles/s41591-022-01689-3)
 - [Postmortem Assessment of Olfactory Tissue Degeneration and Microvasculopathy in Patients With COVID-19](https://jamanetwork.com/journals/jamaneurology/fullarticle/2790735)
+- [Hydroxychloroquine for treatment of non-hospitalized adults with COVID-19: A meta-analysis of individual participant data of randomized trials](https://ascpt.onlinelibrary.wiley.com/doi/10.1111/cts.13468#.Y7aNI46SZJ8)
+- [Alarming antibody evasion properties of rising SARS-CoV-2 BQ and XBB subvariants](https://www.biorxiv.org/content/10.1101/2022.11.23.517532v1.full.pdf)
+- [Self-injury, suicidality and eating disorder symptoms in young adults following COVID-19 lockdowns in Denmark](https://www.nature.com/articles/s41562-022-01511-7)
